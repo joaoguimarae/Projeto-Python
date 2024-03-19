@@ -1,0 +1,102 @@
+{
+    "autores": [
+        {"nome": "Mário de Andrade", "geração": "Primeira", "cidade": "São Paulo", "UF": "SP", "sexo": "masculino"},
+        {"nome": "Oswald de Andrade", "geração": "Primeira", "cidade": "São Paulo", "UF": "SP", "sexo": "masculino"},
+        {"nome": "Manuel Bandeira", "geração": "Primeira", "cidade": "Recife", "UF": "PE", "sexo": "masculino"},
+        {"nome": "Carlos Drummond Andrade", "geração": "Segunda", "cidade": "Itabira", "UF": "MG", "sexo": "masculino"},
+        {"nome": "Guimarães Rosa", "geração": "Terceira", "cidade": "Cordisburgo", "UF": "MG", "sexo": "masculino"},
+        {"nome": "José Lins do Rego", "geração": "Segunda", "cidade": "Pilar", "UF": "PB", "sexo": "masculino"},
+        {"nome": "Rachel de Queiroz", "geração": "Segunda", "cidade": "Fortaleza", "UF": "CE", "sexo": "feminino"},
+        {"nome": "Lygia Fagundes Telles", "geração": "Terceira", "cidade": "São Paulo", "UF": "SP", "sexo": "feminino"},
+        {"nome": "Raul Bopp", "geração": "Primeira", "cidade": "Santa Maria", "UF": "RS", "sexo": "masculino"},
+        {"nome": "Jorge Amado", "geração": "Segunda", "cidade": "Itabuna", "UF": "BA", "sexo": "masculino"},
+        {"nome": "Graciliano Ramos", "geração": "Segunda", "cidade": "Quebrangulo", "UF": "AL", "sexo": "masculino"},
+        {"nome": "Autran Dourado", "geração": "Terceira", "cidade": "Patos de Minas", "UF": "MG", "sexo": "masculino"},
+        {"nome": "Clarice Lispector", "geração": "Terceira", "cidade": "Tchetchelnik", "UF": "HR", "sexo": "feminino"}
+    ],
+
+    "estantes_biblioteca": {
+        "romance": {
+            "setor": "Romance",
+            "localizacao": "A1",
+            "id": "101",
+            "obras": [
+
+                {"titulo": "Macunaíma", "páginas": 240, "publicação": 1928},
+                {"titulo": "Vou-me Embora pra Pasárgada", "páginas": 157, "publicação": 1986},
+                {"titulo": "O Quinze", "páginas": 200, "publicação": 1930},
+                {"titulo": "As Horas Nuas", "páginas": 160, "publicação": 1973},
+                {"titulo": "Gabriela, Cravo e Canela", "páginas": 350, "publicação": 1958},
+                {"titulo": "Vidas Secas", "páginas": 200, "publicação": 1938},
+                {"titulo": "A Hora da Estrela", "páginas": 90, "publicação": 1977}
+
+            ]
+        },
+        "ficção literária": {
+            "setor": "ficção literária",
+            "localizacao": "A2",
+            "id": "102",
+            "obras": [
+                {"titulo": "Serafim Ponte Grande", "páginas": 195, "publicação": 1933},
+                {"titulo": "Grande Sertão: Veredas", "páginas": 594, "publicação": 1956},
+                {"titulo": "Fogo Morto", "páginas": 400, "publicação": 1943},
+                {"titulo": "Cobra Norato", "páginas": 100, "publicação": 1931},
+                {"titulo": "Ópera dos Mortos", "páginas": 180, "publicação": 1967}
+            ]
+        }
+    },
+    "fichas_catalograficas": {
+        "romance": {
+            "Macunaíma": {
+                "conteudo": "conflito familiar",
+                "tematica": "urbanização"
+            },
+            "Vidas Secas": {
+                "conteudo": "O descaso social e a exploração humana",
+                "tematica": "Êxodo rural"
+            },
+            "Vou-me Embora pra Pasárgada": {
+                "conteudo": "Romance moderno",
+                "tematica": "Distorção da realidade"
+            },
+            "O Quinze": {
+                "conteudo": "Tragédia climática",
+                "tematica": "Romance histórico"
+            },
+            "As Horas Nuas": {
+                "conteudo": "Romance clássico",
+                "tematica": "Briga familiar"
+            },
+            "Gabriela, Cravo e Canela": {
+                "conteudo": "Romance entre amigos",
+                "tematica": "Término de relacionamento"
+            },
+            "A Hora da Estrela": {
+                "conteudo": "Romance por acaso",
+                "tematica": "Êxodo rural"
+            }
+        },
+        "ficção literária": {
+            "Serafim Ponte Grande": {
+                "conteudo": "conflito familiar",
+                "tematica": "urbanização"
+            },
+            "Alguma Poesia": {
+                "conteudo": "humor sobre amor e morte",
+                "tematica": "ficção"
+            },
+            "Fogo Morto": {
+                "conteudo": "crítica e desastres históricos",
+                "tematica": "drama histórico"
+            },
+            "Cobra Norato": {
+                "conteudo": "lenda de uma serpente",
+                "tematica": "mitologia"
+            },
+            "Ópera dos Mortos": {
+                "conteudo": "ficção familiar",
+                "tematica": "Romance ficcional"
+            }
+        }
+    }
+}

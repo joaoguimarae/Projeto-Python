@@ -1,0 +1,100 @@
+1 -   Estante 1
+2 -   Estante 2
+Número da estante da biblioteca a ser executada : 2
+
+Opções para Estante da Biblioteca
+1 - Obras
+2 - Fichas Catalográficas
+3 - Obras: ordenação decrescente por páginas
+4 - Autores das obras
+5 - Obras: ordenação por dois atributos
+6 - Obras: ordenação crecente por páginas
+7- Sair
+Número da opção a ser executada : 1
+1 -   Serafim Ponte Grande         195        1933    
+2 -   Grande Sertão: Veredas       594        1956    
+3 -   Fogo Morto                   400        1943    
+4 -   Cobra Norato                 100        1931    
+5 -   Ópera dos Mortos             180        1967    
+
+Opções para Estante da Biblioteca
+1 - Obras
+2 - Fichas Catalográficas
+3 - Obras: ordenação decrescente por páginas
+4 - Autores das obras
+5 - Obras: ordenação por dois atributos
+6 - Obras: ordenação crecente por páginas
+7- Sair
+Número da opção a ser executada : 2
+1 -   102  Serafim Ponte Grande         Conteudo:conflito familiar                       Temática:urbanização                                   
+2 -   102  Fogo Morto                   Conteudo:crítica e desastres históricos          Temática:drama histórico                               
+3 -   102  Cobra Norato                 Conteudo:lenda de uma serpente                   Temática:mitologia                                     
+4 -   102  Ópera dos Mortos             Conteudo:ficção familiar                         Temática:Romance ficcional                             
+
+Opções para Estante da Biblioteca
+1 - Obras
+2 - Fichas Catalográficas
+3 - Obras: ordenação decrescente por páginas
+4 - Autores das obras
+5 - Obras: ordenação por dois atributos
+6 - Obras: ordenação crecente por páginas
+7- Sair
+Número da opção a ser executada : 3
+
+Opções para Estante da Biblioteca
+1 - Obras
+2 - Fichas Catalográficas
+3 - Obras: ordenação decrescente por páginas
+4 - Autores das obras
+5 - Obras: ordenação por dois atributos
+6 - Obras: ordenação crecente por páginas
+7- Sair
+Número da opção a ser executada : 4
+1 -   Mário de Andrade
+2 -   Oswald de Andrade
+3 -   Manuel Bandeira
+4 -   Carlos Drummond Andrade
+5 -   Guimarães Rosa
+6 -   José Lins do Rego
+7 -   Rachel de Queiroz
+8 -   Lygia Fagundes Telles
+9 -   Raul Bopp
+10 -  Jorge Amado
+11 -  Graciliano Ramos
+12 -  Autran Dourado
+13 -  Clarice Lispector
+
+Opções para Estante da Biblioteca
+1 - Obras
+2 - Fichas Catalográficas
+3 - Obras: ordenação decrescente por páginas
+4 - Autores das obras
+5 - Obras: ordenação por dois atributos
+6 - Obras: ordenação crecente por páginas
+7- Sair
+Número da opção a ser executada : 5
+1 -   Grande Sertão: Veredas       594        1956    
+2 -   Fogo Morto                   400        1943    
+3 -   Serafim Ponte Grande         195        1933    
+4 -   Ópera dos Mortos             180        1967    
+5 -   Cobra Norato                 100        1931    
+
+Opções para Estante da Biblioteca
+1 - Obras
+2 - Fichas Catalográficas
+3 - Obras: ordenação decrescente por páginas
+4 - Autores das obras
+5 - Obras: ordenação por dois atributos
+6 - Obras: ordenação crecente por páginas
+7- Sair
+Número da opção a ser executada : 6
+
+Opções para Estante da Biblioteca
+1 - Obras
+2 - Fichas Catalográficas
+3 - Obras: ordenação decrescente por páginas
+4 - Autores das obras
+5 - Obras: ordenação por dois atributos
+6 - Obras: ordenação crecente por páginas
+7- Sair
+Número da opção a ser executada : 7
